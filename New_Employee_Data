@@ -1,0 +1,239 @@
+EmpID	Name	Position	Department	Contract_Term (in months)	Basic_Salary	Bonus	Benefits	cloud_service_used	salaries	C#	Oracle	R	Objective-C	Teradata	C	STATA	SPSS	SAS	SQL	mySQL	Java	Javascript	Ruby	C++	Python
+1011	Sarah_Malone	Foreman	Software Engineering	12.33	33143.84	565.02	19.8	Azure	33728.659999999996	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1028	Joseph_Schmidt	Model Assistant	Software Engineering	39.13	85329.79	46655.78	2979.33	MapReduce	134964.9	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1043	Kale_Lang	Billing Officer	Software Engineering	4.73	7568.63	0.0	1.2	Azure	7569.83	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0
+1070	Karla_Reed	Project Manager	Software Engineering	42.0	50144.32	0.0	0.0	AWS	50144.32	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1
+1071	Yadira_Mcmillan	Laborer	Software Engineering	18.97	50124.8	0.0	1446.34	GCP	51571.14	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+1074	Lilianna_Mccall	Laborer	Software Engineering	24.5	6626.4	957.95	33.13	AWS	7617.48	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1082	Taylor_Sanders	Technician	Software Engineering	22.1	62613.7	1949.09	2540.55	NoSQL	67103.34	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1086	Ava_Pace	Supervisor	Software Engineering	2.3	48508.8	5710.05	1896.72	Azure	56115.57000000001	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1099	Seffi_Shields	Laborer	Production       	0.93	33462.72	273.21	106.35	AWS	33842.28	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1124	Pierce_Robbins	Technician	Production       	35.1	65910.32	0.0	3603.6	GCP	69513.92000000001	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1126	Gretchen_Richard	Engineer	Production       	18.17	98179.2	0.0	2100.0	NoSQL	100279.2	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+1129	Maximilian_Craig	Tower Hand	Production       	25.5	51371.2	114.5	6000.0	NoSQL	57485.7	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+1132	Raymond_Ayers	Laborer	Production       	23.93	108821.42	2532.48	19680.61	Azure	131034.51	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0
+1172	Carlie_Wilkerson	Engineer	Production       	11.6	68637.25	3748.91	5055.89	Azure	77442.05	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1175	Nayeli_Kelley	Laborer	Production       	24.5	38699.37	0.0	1.05	NoSQL	38700.420000000006	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1193	Jamarion_Mitchell	Foreman	Production       	23.9	91981.92	0.0	1776.4	GCP	93758.31999999999	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1246	Kira_Soto	CEO	Production       	31.33	12798.12	0.0	0.0	AWS	12798.12	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1293	Lawrence_Cross	Lineman	Production       	23.23	98179.2	0.0	5825.74	NoSQL	104004.94	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0
+1310	Emmalee_Reynolds	Technician	Production       	3.63	6173.48	0.0	283.89	GCP	6457.37	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1321	William_LaRotonda	Vp	Admin Offices	2.97	31976.88	0.0	29542.64	AWS	61519.520000000004	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0
+1330	Eddie_Bauer	Associate	Admin Offices	7.73	86847.84	52912.9	1286.83	MapReduce	141047.56999999998	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1337	Sherlyn_Carroll	Safety Manager	Admin Offices	40.5	26835.2	294.81	140.63	Azure	27270.640000000003	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1339	Kadence_Gentry	Foreman	IT/IS	16.67	24092.22	6.51	2051.54	MapReduce	26150.27	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1346	Aron_Grant	Laborer	IT/IS	18.23	19549.31	45.93	0.0	GCP	19595.24	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1347	Haleigh_Carter	Coordinator	IT/IS	10.67	59987.2	5165.45	2619.54	GCP	67772.18999999999	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+1348	Tatiana_Ayala	Engineer	Software Engineering	19.7	36739.2	1631.25	2690.76	GCP	41061.21	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+1349	Kaylynn_Mcguire	Manager	Admin Offices	16.03	34669.44	4993.18	2400.8	Azure	42063.420000000006	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+1352	Lily_Tyler	Technician	Admin Offices	58.6	80624.41	7274.31	804.0	MapReduce	88702.72	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1371	Arianna_Carlson	Technician	Admin Offices	1.63	41936.0	276.33	354.27	AWS	42566.6	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1373	Morgan_Hammond	Laborer	Admin Offices	10.1	88916.8	0.0	8244.0	AWS	97160.8	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1384	Karla_Farrell	Groundman	Admin Offices	8.23	177697.6	0.0	6540.0	Azure	184237.6	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1397	John_Kretschmer	Laborer	Production       	2.53	58225.77	5464.85	190.8	AWS	63881.42	1	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0
+1400	Yen_Johnston	Laborer	Production       	54.17	64569.6	0.0	3875.0	NoSQL	68444.6	1	0	1	1	0	1	0	0	0	1	0	0	0	0	1	0
+1404	Ned_Miller	Manager	Production       	30.33	75755.2	2864.4	3237.35	NoSQL	81856.95	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+1410	Ashanti_Price	Laborer	Production       	14.23	61979.1	2336.3	17167.98	MapReduce	81483.38	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1433	Alijah_Singh	Clerk	Production       	7.77	59635.2	0.0	3600.0	GCP	63235.2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1434	Ayla_Roberts	Splicer	Production       	51.7	89.08	0.0	0.0	NoSQL	89.08	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1
+1439	Dangelo_Gould	Laborer	Production       	9.33	75755.2	0.0	2922.58	GCP	78677.78	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+1476	Kaden_Woodard	Foreman	Production       	9.0	51512.91	11500.82	1807.64	NoSQL	64821.37	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1
+1478	Kamron_Doyle	Locator	Production       	29.43	75674.36	6861.21	2748.34	NoSQL	85283.91	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1
+1517	Leyla_Davila	Splicer	Production       	4.8	75755.2	4183.09	11905.51	AWS	91843.79999999999	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1518	Kolten_Calhoun	Engineer	Production       	48.67	75755.2	43661.32	10868.01	Azure	130284.52999999998	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1523	Joel_Eaton	Director	Production       	33.73	103272.0	0.0	4000.0	AWS	107272.0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+1527	Tristen_Reed	Engineer	Production       	2.73	11721.6	0.0	20.0	AWS	11741.6	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1533	Angelo_Fox	Technician	Production       	8.37	51798.4	11370.16	2220.88	GCP	65389.439999999995	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1550	Kyle_Peck	Technician	Production       	23.1	42444.8	5534.43	2046.56	AWS	50025.79	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+1551	Zaniyah_Roman	Project Manager	Production       	24.93	65298.72	2065.62	2532.0	Azure	69896.34	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1552	Katie_Gutierrez	Laborer	Production       	0.2	9036.0	1362.92	533.98	GCP	10932.9	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1554	Zackery_Sutton	Project Manager	Production       	14.53	66573.44	0.0	1235.6	AWS	67809.04000000001	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1562	Kailee_Harmon	Administrator	Production       	12.83	13929.9	0.0	0.0	GCP	13929.9	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1565	Guillermo_Lynn	Foreman	Production       	10.6	65913.6	0.0	2753.0	Azure	68666.6	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1570	Mariana_Copeland	Laborer	Production       	6.13	28754.51	2392.75	166.1	NoSQL	31313.359999999997	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1576	Rohan_Mcdowell	Lineman	Production       	10.77	75755.2	30875.72	14355.38	Azure	120986.3	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1
+1583	Muhammad_Mcpherson	Coordinator	Production       	0.33	53948.8	151.08	5891.3	MapReduce	59991.18000000001	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+1601	Odin_Heath	Engineer	Production       	16.07	96513.92	0.0	0.0	AWS	96513.92	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1675	Dawson_Pollard	Technician	IT/IS	2.4	119979.2	0.0	9331.2	Azure	129310.4	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1
+1698	Makai_Nolan	Engineer	IT/IS	3.67	76015.52	0.0	0.0	Azure	76015.52	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+1724	Valerie_Davis	Coordinator	IT/IS	7.07	49398.1	6199.48	2936.65	Azure	58534.23	0	0	0	0	0	0	0	1	0	1	0	1	1	0	0	0
+1736	Enrico_Langton	Technician	Production       	41.87	53145.87	4168.05	953.62	MapReduce	58267.54000000001	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1738	Phil_Close	Coordinator	Production       	1.2	43923.2	0.0	7690.0	GCP	51613.2	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1
+1759	Jose_Houston	Coordinator	Production       	21.27	84582.4	6281.85	4837.03	GCP	95701.28	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+1760	Janessa_Mcconnell	Foreman	Production       	2.87	12993.6	0.0	2004.2	AWS	14997.800000000001	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1776	Yamilet_Pierce	Engineer	Production       	15.17	46384.0	0.0	2083.96	NoSQL	48467.96	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1777	Amare_Hartman	Splicer	Production       	23.03	42000.9	4185.87	834.08	AWS	47020.850000000006	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0
+1799	Aliyah_Schmitt	Technician	Production       	8.93	46309.35	660.28	1106.5	MapReduce	48076.13	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1868	Briana_Wang	Laborer	Production       	13.97	46384.0	0.0	4669.9	MapReduce	51053.9	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+1872	Reyna_Good	Laborer	Production       	6.5	70422.4	3797.77	1373.6	AWS	75593.77	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0
+1880	Sidney_Moran	Foreman	Production       	18.93	11230.4	0.0	3000.0	AWS	14230.4	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1899	Kolton_Duarte	Laborer	Production       	29.9	41035.6	0.0	0.0	MapReduce	41035.6	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+1902	Sarahi_Raymond	Project Manager	Production       	24.7	80615.35	49864.68	1286.83	MapReduce	131766.86	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+1903	Taylor_Wiggins	Foreman	Production       	11.93	119563.2	0.0	4680.0	GCP	124243.2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1911	Kael_Fisher	Laborer	Production       	12.27	44240.7	1766.43	184.5	AWS	46191.63	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1
+1912	Erica_French	Engineer	Production       	12.17	47446.8	1692.04	3514.88	AWS	52653.72	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1913	Damaris_Oneal	Lineman	Production       	2.93	15977.58	113.7	14.2	AWS	16105.480000000001	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1
+1914	Rebecca_Craig	Project Manager	Production       	6.7	93542.4	0.0	1446.34	Azure	94988.73999999999	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+1915	Carley_Waters	Laborer	Production       	1.83	75755.2	26229.71	11896.53	AWS	113881.44	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+1916	Kadyn_Harrison	Technician	Production       	12.23	14382.7	0.0	0.0	AWS	14382.7	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+1919	Emilie_Donaldson	Shop	Production       	6.8	81342.79	32506.73	5107.18	AWS	118956.69999999998	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+1921	Kenya_Decker	Engineer	Production       	22.13	139383.6	32671.85	5378.88	AWS	177434.33000000002	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+1985	Braxton_Rojas	Lineman	Production       	0.53	75755.2	32387.77	5365.95	Azure	113508.92	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2002	Roberto_Rosales	Laborer	Production       	58.1	39341.8	330.9	1853.6	MapReduce	41526.3	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2056	Kelly_Ellis	Laborer	Production       	22.67	72803.2	288.08	9437.27	NoSQL	82528.55	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2073	Armani_Barker	Manager	Production       	5.2	35808.8	51.04	456.4	AWS	36316.240000000005	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2101	Justice_Curry	Engineer	Production       	4.53	14830.34	113.7	26.9	MapReduce	14970.94	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2106	Tony_Mendoza	Foreman	Production       	45.9	54188.0	0.0	0.0	Azure	54188.0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0
+2138	Wilson_Sloan	Evp	Production       	19.43	80299.04	0.0	0.0	Azure	80299.04	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0
+2141	Casey_Dixon	Foreman	Production       	56.47	70616.0	0.0	0.0	MapReduce	70616.0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2143	Adelaide_Meyer	Coordinator	Production       	28.4	72825.6	56209.85	4474.68	MapReduce	133510.13	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2146	Frankie_Franklin	Model Assistant	Production       	41.9	62880.48	0.0	0.0	Azure	62880.48	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2149	Cheyanne_Hess	Coordinator	Production       	26.2	108708.8	0.0	4200.0	NoSQL	112908.8	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2151	Areli_Mitchell	Engineer	Production       	29.6	102708.64	2745.98	19207.21	Azure	124661.82999999999	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2167	Kendrick_Ashley	Administrator	Production       	19.63	62260.71	12574.75	11586.24	GCP	86421.7	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2197	Adrien_Maddox	Operator	Production       	39.2	58656.32	0.0	34471.58	GCP	93127.9	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2203	Colton_Le	Technician	Production       	14.87	75755.2	0.0	18420.75	AWS	94175.95	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2257	Ingrid_Lucero	Administrator	IT/IS	13.57	40018.8	257.42	0.4	AWS	40276.62	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2295	Everett_Jordan	Driller	Production       	10.87	42856.66	0.0	1585.0	AWS	44441.66	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0
+2297	Deandre_Richard	Laborer	Production       	9.37	102708.64	24084.65	2129.75	NoSQL	128923.04000000001	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1
+2311	Araceli_Castillo	Laborer	Production       	38.97	51602.14	8355.68	129.75	Azure	60087.57	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2320	Kristen_Peters	Engineer	Production       	7.8	15712.43	90.96	9.2	GCP	15812.59	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2321	Hadassah_Gallegos	Technician	Production       	0.13	666.8	0.0	0.0	GCP	666.8	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+2323	Aubree_Villanueva	Manager	Production       	3.93	53784.0	2932.21	2705.41	Azure	59421.619999999995	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+2324	Aspen_Dixon	Splicer	Production       	19.07	35706.56	0.0	40.0	NoSQL	35746.56	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+2345	Nyla_Schwartz	Specialist	Production       	32.93	76728.96	0.0	0.0	AWS	76728.96	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2354	Charlee_Navarro	Clerk	IT/IS	5.77	78833.6	0.0	0.0	GCP	78833.6	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+2358	Summer_Huang	Executive Assistant	Production       	30.97	84582.4	0.0	2700.0	Azure	87282.4	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2359	Jaylyn_Contreras	Project Manager	Production       	26.37	120049.6	0.0	9689.6	NoSQL	129739.20000000001	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0
+2373	Marilyn_Wiley	Foreman	IT/IS	19.2	93542.4	0.0	8663.2	AWS	102205.59999999999	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2374	Selena_Hebert	Laborer	IT/IS	8.6	42214.72	2547.54	814.0	NoSQL	45576.26	1	0	1	1	0	1	0	0	0	1	0	0	0	0	1	0
+2380	German_Higgins	Laborer	Production       	0.3	59580.8	0.0	0.0	NoSQL	59580.8	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+2384	Matthias_Dunlap	Foreman	Production       	12.4	75755.2	11080.01	3295.82	MapReduce	90131.03	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2389	Keshawn_Singh	Administrator	Production       	19.9	84154.5	26669.13	3976.25	NoSQL	114799.88	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2397	Marcos_Sloan	Laborer	Production       	7.4	52257.6	679.69	1436.25	AWS	54373.54	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2402	Hayley_Chung	Supervisor	Production       	5.37	50753.6	0.0	1850.8	Azure	52604.4	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2407	Lamont_Prince	Clerk	Production       	42.87	84054.56	0.0	0.0	GCP	84054.56	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2413	Alexus_Greer	Driver	Production       	2.47	60840.85	16984.12	5766.93	GCP	83591.9	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+2431	Elvis_Kaufman	Laborer	Production       	10.2	40939.52	463.29	1043.47	NoSQL	42446.28	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+2450	Vivian_Bright	Lineman	Production       	1.23	77536.68	5782.53	129.75	NoSQL	83448.95999999999	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1
+2458	Angelica_Gamble	Technician	Production       	17.3	57822.88	3528.58	3351.58	MapReduce	64703.04	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+2496	Selina_Mullins	Operator	IT/IS	30.33	7831.2	2339.93	217.86	GCP	10388.99	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2497	Marilyn_Chaney	Technician	IT/IS	13.03	63485.79	970.48	7327.05	AWS	71783.32	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+2503	Ally_Goodman	Clerk	IT/IS	1.13	39090.88	0.0	0.0	Azure	39090.88	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2507	Adalyn_Hess	Foreman	IT/IS	0.3	43534.21	268.32	0.0	GCP	43802.53	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2512	Lawrence_Obrien	Laborer	Software Engineering	1.3	37223.6	2194.62	12.85	AWS	39431.07	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2525	Larry_Novak	Lineman	Sales	21.83	69240.0	5548.76	3125.55	Azure	77914.31	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2528	Rigoberto_Allen	Coordinator	IT/IS	1.57	30568.8	544.56	2681.18	AWS	33794.54	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2543	Ernest_Finley	Operator	Software Engineering	26.07	64083.2	1984.98	4815.2	AWS	70883.37999999999	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2544	Wade_Hernandez	Laborer	IT/IS	1.7	40034.4	1728.39	404.33	NoSQL	42167.12	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2550	Beckett_Beck	Flagger	Software Engineering	11.63	33235.35	2274.85	1885.85	Azure	37396.049999999996	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1
+2574	Giovanni_Leruth	Engineer	Sales	8.47	50753.6	0.0	1638.6	Azure	52392.2	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1
+2575	Ricardo_Gonzales	Splicer	Sales	23.27	36244.64	7714.99	449.63	AWS	44409.259999999995	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2599	Jase_Waters	Runner	Sales	14.8	4583.6	257.83	0.0	AWS	4841.43	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2635	Maxim_Phillips	Locator	Admin Offices	46.23	54712.64	0.0	0.0	AWS	54712.64	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+2643	Katelyn_Brown	Clerical Officer	Sales	5.93	61676.29	48912.02	6243.5	Azure	116831.81	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+2644	Miranda_Keith	Lineman	Sales	8.83	104245.2	33652.14	2637.97	Azure	140535.31	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+2649	Maximus_Delgado	Coordinator	Sales	32.57	102708.64	60941.53	12884.41	Azure	176534.58	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1
+2672	Quincy_Shannon	Engineer	Sales	37.4	51798.4	623.24	1145.52	Azure	53567.159999999996	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+2751	Mathew_Linden	Laborer	Production       	8.53	59672.64	0.0	0.0	AWS	59672.64	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0
+2752	Adeel_Osturnka	Flagger	Production       	6.67	75755.2	288.08	4377.31	NoSQL	80420.59	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2842	Ryan_Rollins	Laborer	Production       	28.73	120049.6	0.0	5149.84	MapReduce	125199.44	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+2844	Litzy_Lloyd	Technician	Production       	31.23	41222.72	0.0	0.0	AWS	41222.72	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1
+2846	Natalia_Bush	Technician	Production       	34.67	15247.38	0.0	581.7	AWS	15829.08	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0
+2854	Eileen_Beard	Executive	Production       	11.97	87640.0	0.0	3444.0	AWS	91084.0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2865	Esperanza_Horne	Foreman	Production       	5.33	48268.8	0.0	2115.5	AWS	50384.3	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1
+2870	Sanai_Sweeney	Vp	Production       	0.17	84878.56	0.0	0.0	GCP	84878.56	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2877	Skylar_Riggs	Manager	Production       	0.87	56620.8	0.0	0.0	GCP	56620.8	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2878	Shania_Barrera	Contracts Officer	Production       	5.37	56443.7	3089.86	2592.98	GCP	62126.54	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0
+2880	Aimee_Berg	Safety Manager	Production       	18.0	55966.4	2201.96	890.26	GCP	59058.62	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2885	Humberto_Yoder	Groundman	Production       	5.97	48268.8	0.0	2571.8	AWS	50840.600000000006	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1
+2887	Natalya_Reyes	Shop	Production       	24.97	61689.52	2345.0	4783.05	AWS	68817.56999999999	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1
+2888	Celia_Mcpherson	Foreman	Production       	11.17	75755.2	794.38	6040.64	Azure	82590.22	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+2889	Matias_Barton	Engineer	Production       	45.6	52512.0	0.0	0.0	AWS	52512.0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+2895	Mauricio_Stein	Top Hand	Production       	2.57	48513.31	5041.78	689.14	AWS	54244.229999999996	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+2904	Marquis_Atkinson	Technician	Production       	8.27	61588.8	1628.43	3162.1	Azure	66379.33	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+2959	Marquis_Cardenas	Lineman	Production       	0.2	75755.2	59047.95	3816.15	Azure	138619.3	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+2976	Richard_Newman	Laborer	Production       	2.0	33409.97	360.56	52.7	MapReduce	33823.229999999996	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3018	Alaina_Jenkins	Manager	Production       	32.87	82950.4	0.0	0.0	AWS	82950.4	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1
+3019	Elyse_Morrow	Administrator	Production       	14.83	52577.6	116.15	2773.5	GCP	55467.25	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+3022	Leonel_Chang	Laborer	Production       	19.5	1245.39	0.0	0.0	AWS	1245.39	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3030	Kadin_Mcdowell	Laborer	Production       	6.07	0.0	624.15	1150.0	NoSQL	1774.15	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3031	Reed_Brandt	Supervisor	Production       	13.5	35400.8	2180.67	2356.5	NoSQL	39937.97	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3072	Daniel_Frye	Foreman	Production       	1.13	39420.8	0.0	4808.0	GCP	44228.8	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3073	Jayvon_Simpson	Laborer	Production       	6.73	142728.8	526.24	12737.0	MapReduce	155992.03999999998	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3074	Bryant_Singleton	Splicer	Production       	23.77	54509.12	0.0	2492.16	NoSQL	57001.28	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+3077	Asher_Miles	Clerk	Production       	8.93	10313.3	0.0	0.0	NoSQL	10313.3	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+3078	Makaila_Baxter	Foreman	Production       	27.1	71161.44	0.0	0.0	NoSQL	71161.44	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3080	Zavier_Reese	Lineman	Production       	26.7	51857.6	8683.92	1844.0	Azure	62385.52	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0
+3084	Mekhi_Hopkins	Clerk	Production       	19.63	50753.6	0.0	1446.34	Azure	52199.939999999995	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3097	Rigoberto_Gentry	Administrator	Production       	2.9	37456.0	1730.1	741.42	Azure	39927.52	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3112	Emanuel_George	Mechanic	Production       	10.23	16654.4	0.0	0.0	Azure	16654.4	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0
+3115	Braiden_Kirby	Supervisor	Production       	1.2	75755.2	7609.17	6712.48	MapReduce	90076.84999999999	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3120	Angelique_Hogan	Lineman	Production       	19.13	73236.8	0.0	0.0	Azure	73236.8	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3125	Boston_Cochran	Laborer	Production       	11.6	93542.4	0.0	2407.84	Azure	95950.23999999999	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3127	Lillianna_Hull	Supervisor	Production       	5.8	47231.84	0.0	0.0	AWS	47231.84	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3171	Regina_Lopez	Engineer	Production       	23.83	56241.55	1801.55	954.13	GCP	58997.23	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3177	Abel_Potts	Coordinator	Production       	21.07	40437.76	2626.75	826.15	AWS	43890.66	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3271	Taryn_Snow	Engineer	Production       	41.43	93.51	0.0	0.0	NoSQL	93.51	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1
+3278	Mina_Bryant	Laborer	Production       	13.47	90969.6	8525.69	9450.45	MapReduce	108945.74	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3285	Rashad_Sutton	Laborer	Production       	23.2	75755.2	281.02	3623.59	Azure	79659.81	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3292	Nadia_Romero	Engineer	Production       	12.07	27609.52	45.3	860.72	GCP	28515.54	0	0	1	0	0	0	0	0	0	1	0	1	1	0	0	0
+3294	Brent_Henry	Lineman	Production       	6.77	16086.13	71.19	605.85	GCP	16763.17	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3296	Isis_Brooks	Foreman	Production       	9.13	76672.0	0.0	1638.6	GCP	78310.6	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+3297	Axel_Dunlap	Engineer	Production       	9.2	67600.4	2930.22	2241.91	Azure	72772.53	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+3298	Tatum_Petty	Technician	Production       	6.1	15748.08	0.0	0.0	NoSQL	15748.08	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+3300	Rosemary_Becker	Technician	Production       	13.63	63203.12	0.0	0.0	MapReduce	63203.12	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3315	Amy_Pace	Locator	Production       	17.4	75755.2	5418.3	3024.42	AWS	84197.92	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+3316	Bronson_Houston	Lineman	Production       	32.07	96903.5	41914.86	2056.07	NoSQL	140874.43	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3328	Braylen_Cruz	Engineer	Production       	29.97	80383.07	22714.2	2979.33	GCP	106076.6	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+3345	Moshe_Anderson	Director	Production       	13.73	87543.58	4478.09	4213.73	AWS	96235.4	1	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0
+3347	Ahmed_Lindsey	Operator	Production       	15.5	95159.94	78099.4	13699.94	AWS	186959.28	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3354	Neil_Dunn	Laborer	Production       	22.53	18304.0	1962.08	1334.3	NoSQL	21600.38	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+3358	Johnathan_Mayo	Laborer	Production       	16.37	36999.76	422.07	66.25	MapReduce	37488.08	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3371	Aliya_Moss	Manager	Production       	3.07	41460.52	13481.3	2879.88	AWS	57821.69999999999	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3405	Selina_Jefferson	Engineer	Production       	33.73	11031.62	0.0	34.9	NoSQL	11066.52	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+3424	Annabel_Wilkins	Laborer	Production       	20.1	63281.7	2926.27	1664.16	NoSQL	67872.13	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1
+3436	Joseph_Martins	Engineer	Sales	17.47	42134.4	0.0	0.0	MapReduce	42134.4	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3438	Dheepa_Nguyen	Technician	Sales	15.03	88916.8	0.0	5539.6	MapReduce	94456.40000000001	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+3449	Gerald_Preston	Technician	Sales	0.57	3835.2	0.0	0.0	AWS	3835.2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3459	Saniya_Yu	Splicer	Sales	14.3	34428.8	0.0	0.0	GCP	34428.8	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3466	Clayton_Walker	Supervisor	IT/IS	12.07	46840.0	363.99	0.0	MapReduce	47203.99	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0
+3507	Ivan_Huff	Manager	Sales	25.7	56828.92	33884.19	3910.81	NoSQL	94623.92	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3516	Deborah_Love	Coordinator	Sales	9.67	45011.84	0.0	0.0	NoSQL	45011.84	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0
+3523	Rohan_Chapman	Laborer	Sales	14.2	38912.66	5514.14	809.2	MapReduce	45236.0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+3544	Samara_Mcbride	Foreman	Sales	0.33	48268.8	0.0	2600.0	Azure	50868.8	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3548	Sanaa_Glass	Technician	Sales	15.2	64083.2	0.0	8141.4	GCP	72224.59999999999	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3549	Ryan_Lynch	Technician	Sales	24.47	37665.26	2052.37	898.8	AWS	40616.43000000001	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+3555	Matilda_Randall	Drafter	Sales	4.03	7320.96	702.93	20223.59	Azure	28247.48	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3559	Wilson K_Adinolfi	Assistant	Production       	10.17	53308.8	650.96	0.0	GCP	53959.76	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3564	Susan_Lundy	Lineman	Production       	22.53	75755.2	6677.73	5018.66	AWS	87451.59	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3576	Angela_Erilus	Project Manager	Production       	21.47	2831.13	0.0	0.0	AWS	2831.13	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+3581	Ross_Strickland	Foreman	Production       	29.73	57588.8	0.0	0.0	GCP	57588.8	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+3588	Selena_Greer	Mechanic	Production       	1.7	46384.0	0.0	2281.96	GCP	48665.96	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3591	Abdullah_Ellison	Supervisor	Production       	18.4	68786.0	0.0	0.0	Azure	68786.0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3595	Fisher_Stafford	Technician	Production       	24.07	131080.0	63930.83	16030.39	AWS	211041.22000000003	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3602	Helena_Davenport	Engineer	Production       	25.77	40196.77	0.0	0.0	Azure	40196.77	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1
+3627	Ruth_Harrell	Supervisor	Production       	38.8	60978.4	8168.58	129.75	AWS	69276.73	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3695	Cason_Neal	Laborer	Production       	28.93	35319.07	1831.09	14.0	Azure	37164.159999999996	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+3696	Aldo_Dyer	Foreman	Production       	33.2	61552.6	7544.91	2522.0	Azure	71619.51	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+3698	Julien_Banks	Foreman	Production       	2.3	63983.1	7452.84	3023.09	AWS	74459.03	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3724	Essence_Schwartz	Laborer	Production       	25.03	11726.4	1334.93	0.0	Azure	13061.33	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+3726	Averi_Stevenson	Lineman	Production       	14.4	43045.29	348.93	0.0	Azure	43394.22	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1
+3739	Amir_Melendez	Tower Hand	Production       	31.37	0.0	0.0	2012.5	GCP	2012.5	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+3754	Arielle_Potts	Engineer	Production       	20.07	76743.52	0.0	0.0	Azure	76743.52	1	0	0	1	0	1	0	1	0	1	0	0	0	0	1	0
+3763	Giancarlo_Cross	Clerk	Production       	0.83	84582.4	0.0	1638.0	GCP	86220.4	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1
+3770	Nayeli_Hood	Lineman	Production       	15.1	51798.4	0.0	1250.0	AWS	53048.4	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3786	Kyleigh_Bauer	Technician	Production       	13.3	48204.0	853.05	239.5	AWS	49296.55	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3803	Kai_Holt	Tower Hand	Production       	10.83	33445.2	900.99	1473.36	AWS	35819.549999999996	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0
+3855	Brady_Yoder	Accountant	Executive Office	14.83	134.66	0.0	0.0	AWS	134.66	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0
+3896	Korbin_Gilbert	Project Manager	IT/IS	35.4	35198.88	9994.92	3193.46	AWS	48387.259999999995	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1
+3898	Anaya_Preston	Lineman	IT/IS	50.67	103272.0	0.0	8654.0	AWS	111926.0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0
+3917	Chris_Vincent	Technician	IT/IS	39.93	63896.4	11.01	2.8	AWS	63910.21000000001	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1
+3918	Myah_Waller	Laborer	IT/IS	30.47	75755.2	60879.05	4782.58	NoSQL	141416.83	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+3921	Alessandra_Lee	Splicer	IT/IS	29.47	61470.8	0.0	0.0	NoSQL	61470.8	0	0	1	0	0	0	0	0	0	1	0	1	1	0	0	0
+3925	Anna_Jordan	Vp	IT/IS	30.83	61467.44	77.07	0.0	MapReduce	61544.51	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+3928	Audrina_Yu	Laborer	IT/IS	8.8	38261.12	0.0	0.0	MapReduce	38261.12	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+3929	Jeramiah_Foster	Clerk	IT/IS	1.2	49396.51	14732.74	678.39	GCP	64807.64	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+3942	Bianca_Roehrich	Laborer	IT/IS	38.13	831.6	0.0	0.0	AWS	831.6	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+3947	Renee_Becker	Field Technician	IT/IS	26.97	75755.2	6665.73	7850.78	AWS	90271.70999999999	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+3956	Aliana_Shaw	Foreman	IT/IS	43.63	45396.8	0.0	1011.92	Azure	46408.72	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1
